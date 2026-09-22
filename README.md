@@ -1,155 +1,320 @@
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:0369a1,100:06b6d4&height=230&section=header&text=GUILHERME%20TAVARES&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=DESENVOLVIMENTO%20DE%20SISTEMAS%20%7C%20ETEC%20VAV&descAlignY=55&descSize=17&animation=fadeIn" width="100%"/> <br> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=750&lines=%3E+Ol%C3%A1%2C+eu+sou+Guilherme+%F0%9F%91%8B;%3E+Estudante+de+Desenvolvimento+de+Sistemas;%3E+1%C2%BA+ano+%7C+ETEC+VAV+%F0%9F%8E%93;%3E+Aprendendo.+Criando.+Evoluindo.+%F0%9F%9A%80" alt="Typing animation"/>
+
+<br><br>
+
+<a href="https://github.com/guilherme-stac"> <img src="https://img.shields.io/badge/GITHUB-guilherme--stac-0b1220?style=for-the-badge&logo=github&logoColor=ffffff"/> </a> <img src="https://img.shields.io/badge/ETEC-VAV-0b1220?style=for-the-badge&logo=google-scholar&logoColor=22d3ee"/> <img src="https://img.shields.io/badge/STATUS-ESTUDANDO-0b1220?style=for-the-badge&logo=rocket&logoColor=22c55e"/> </div> <br>
 <div align="center">
-👨‍💻 GUILHERME TAVARES
-Estudante de Desenvolvimento de Sistemas
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hello%2C+World!+%F0%9F%91%8B;Estudante+da+ETEC+VAV+%F0%9F%8E%93;Aprendendo+%7C+Praticando+%7C+Criando+%F0%9F%9A%80;Transformando+ideias+em+c%C3%B3digo+%F0%9F%92%BB" alt="Typing SVG" /> <br> <a href="https://github.com/guilherme-stac"> <img src="https://img.shields.io/badge/GitHub-guilherme--stac-0d1117?style=for-the-badge&logo=github&logoColor=white"> </a> <img src="https://img.shields.io/badge/ETEC-VAV-2563EB?style=for-the-badge"> <img src="https://img.shields.io/badge/Status-Estudante-22C55E?style=for-the-badge"> </div>
-🧑‍💻 Sobre mim
+01 • SOBRE MIM
+</div> <table> <tr> <td width="60%" valign="top">
+👨‍💻 Quem sou eu?
 
-Olá! Meu nome é Guilherme Tavares e sou estudante do 1º ano de Desenvolvimento de Sistemas na ETEC VAV.
+Olá! Eu sou Guilherme Tavares, estudante do 1º ano de Desenvolvimento de Sistemas na ETEC VAV.
 
-Estou iniciando minha jornada na área de tecnologia e, atualmente, estou construindo minha base em programação, desenvolvimento web, lógica de programação e desenvolvimento de sistemas.
+Estou começando minha jornada na área de tecnologia e construindo minha base em programação, desenvolvimento web e desenvolvimento de sistemas.
 
-Gosto de aprender através da prática e transformar aquilo que estudo em pequenos projetos. Cada projeto é uma oportunidade para aplicar conhecimentos, encontrar problemas e aprender novas formas de resolvê-los.
+Gosto de aprender fazendo, transformar ideias em código e usar cada projeto como uma oportunidade para evoluir.
 
-💡 Meu objetivo é evoluir constantemente e transformar conhecimento em projetos.
+Meu GitHub acompanha essa evolução: aqui você encontrará meus estudos, experimentos e projetos desenvolvidos ao longo da minha formação.
 
-🎓 Formação
+</td> <td width="40%" valign="top">
+⚡ Em poucas palavras
+👨‍💻 Guilherme Tavares
+
+🎓 1º ano
 🏫 ETEC VAV
 
-Curso: Desenvolvimento de Sistemas
-Ano: 1º ano
-Status: 🟢 Em andamento
-
-Durante minha formação estou desenvolvendo conhecimentos relacionados a:
-
-💻 Programação
-
-🧠 Lógica de programação
-
-🌐 Desenvolvimento Web
-
-🗄️ Banco de dados
-
-🔧 Versionamento de código
-
-🖥️ Desenvolvimento de sistemas
-
-🧩 Resolução de problemas
-
-🛠️ Tecnologias
-🌐 Desenvolvimento Web
-<div align="left"> <img src="https://skillicons.dev/icons?i=html,css,js" /> </div>
-🔧 Ferramentas
-<div align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </div>
-📚 Em aprendizado
-
-Esta lista será atualizada conforme novos conhecimentos forem adquiridos durante o curso.
-
+💻 Desenvolvimento
+🧠 Aprendizado
 🚀 Projetos
 
-Esta seção será atualizada conforme novos projetos forem desenvolvidos.
+📍 Brasil
+🟢 Sempre evoluindo
 
-📁 Projeto #01 — Em breve
+</td> </tr> </table>
+<div align="center">
+02 • MINHA JORNADA
+</div>
+                    MINHA EVOLUÇÃO
 
-Descrição
+2026 ────────────────────────────────────────────────►
 
-Projeto desenvolvido durante minha formação na ETEC.
+  🎓 ETEC VAV
+       │
+       ▼
+  🧠 Fundamentos
+       │
+       ▼
+  💻 Programação
+       │
+       ▼
+  🌐 Desenvolvimento Web
+       │
+       ▼
+  🔧 Git & GitHub
+       │
+       ▼
+  🗄️ Banco de Dados
+       │
+       ▼
+  🚀 Projetos
+       │
+       ▼
+  📈 EVOLUÇÃO CONTÍNUA
 
-Tecnologias
+
+Este perfil será atualizado conforme novos conhecimentos e projetos forem adicionados.
+
+<div align="center">
+03 • STACK
+🌐 Desenvolvimento
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+<br><br>
+
+🧰 Ferramentas
+<img src="https://skillicons.dev/icons?i=git,github,vscode" /> </div> <br> <table> <tr> <td align="center" width="33%">
+🌐 WEB
+
+HTML
+CSS
+JavaScript
+
+</td> <td align="center" width="33%">
+🔧 DEV
+
+Git
+GitHub
+VS Code
+
+</td> <td align="center" width="33%">
+📚 ESTUDANDO
+
+Programação
+Banco de Dados
+Sistemas
+
+</td> </tr> </table>
+<div align="center">
+04 • PROJETOS
+🚀 Construindo minha primeira coleção de projetos
+</div>
+
+Atualmente estou desenvolvendo meus primeiros projetos durante minha formação.
+Esta seção será atualizada conforme os projetos forem concluídos.
+
+<br> <table> <tr> <td width="50%" valign="top">
+📁 Projeto #01
+
+🚧 Em desenvolvimento
+
+Descrição do projeto será adicionada aqui.
+
+Stack
 
 HTML CSS JavaScript
 
-Status: 🟡 Em desenvolvimento
+Status
 
-📁 Projeto #02 — Em breve
+🟡 Em desenvolvimento
 
-Descrição
+<br>
 
-Projeto pessoal criado para colocar conhecimentos de programação em prática.
+🔗 Ver projeto
 
-Tecnologias
+</td> <td width="50%" valign="top">
+📁 Projeto #02
 
-Em breve
+💡 Em planejamento
 
-Status: ⚪ Planejamento
+Projeto pessoal para colocar conhecimentos em prática.
 
-📁 Projeto #03 — Em breve
-
-Descrição
-
-Novo projeto que será adicionado conforme minha evolução nos estudos.
-
-Tecnologias
+Stack
 
 Em breve
 
-Status: ⚪ Planejamento
+Status
 
-📈 Minha evolução
+⚪ Planejamento
 
-Minha jornada na programação está apenas começando.
+<br>
 
-2026
- │
- ├── 🎓 Início do curso
- │
- ├── 🧠 Fundamentos de programação
- │
- ├── 🌐 Desenvolvimento Web
- │
- ├── 🔧 Git & GitHub
- │
- ├── 🗄️ Banco de Dados
- │
- └── 🚀 Próximos projetos
+🔗 Ver projeto
 
+</td> </tr> <tr> <td width="50%" valign="top">
+📁 Projeto #03
 
-📌 Este README também faz parte da minha evolução e será atualizado conforme eu adquirir novos conhecimentos.
+💡 Em planejamento
 
-🎯 Objetivos
-Curto prazo
+Novo projeto desenvolvido durante minha evolução no curso.
 
- Aprimorar lógica de programação
+Stack
 
- Desenvolver novos projetos
+Em breve
 
- Melhorar meus conhecimentos em HTML, CSS e JavaScript
+Status
 
- Aprender mais sobre Git e GitHub
+⚪ Planejamento
 
-Médio prazo
+<br>
 
- Aprender novas linguagens
+🔗 Ver projeto
 
- Aprofundar conhecimentos em banco de dados
+</td> <td width="50%" valign="top">
+📁 Próximo projeto
 
- Criar aplicações mais completas
+🔮 Coming soon...
 
- Construir um portfólio maior
+Mais um projeto será adicionado aqui.
 
-Futuro
+Stack
 
- Conseguir minha primeira oportunidade na área
+???
 
- Trabalhar profissionalmente com tecnologia
+Status
 
- Continuar estudando e evoluindo como desenvolvedor
+🔵 Em breve
 
-📊 GitHub
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme-stac&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-stac&layout=compact&theme=tokyonight&hide_border=true"/> </div>
-🐍 Contribution Snake
-<div align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"> </div>
-📌 Atualmente
+<br>
+
+🔗 Em breve
+
+</td> </tr> </table>
 <div align="center">
-📚 Estudando	💻 Praticando	🚀 Construindo
-Programação	Projetos	Portfólio
-Desenvolvimento Web	Git & GitHub	Experiência
-Banco de Dados	Lógica	Conhecimento
+05 • FORMAÇÃO
+</div> <table> <tr> <td width="90px" align="center">
+
+🎓
+
+</td> <td>
+Desenvolvimento de Sistemas
+
+ETEC VAV
+
+1º ano • Em andamento
+
+Formação voltada ao desenvolvimento de sistemas, programação, lógica, desenvolvimento web, banco de dados e fundamentos da área de tecnologia.
+
+</td> </tr> </table>
+<div align="center">
+06 • O QUE ESTOU BUSCANDO
+</div> <table> <tr> <td>
+📚 APRENDER
+
+Novas linguagens, ferramentas e conceitos de desenvolvimento.
+
+</td> <td>
+💻 PRATICAR
+
+Transformar conhecimento teórico em projetos reais.
+
+</td> </tr> <tr> <td>
+🧠 EVOLUIR
+
+Melhorar minha lógica e minha capacidade de resolver problemas.
+
+</td> <td>
+🚀 CONSTRUIR
+
+Criar projetos cada vez mais completos e interessantes.
+
+</td> </tr> </table>
+<div align="center">
+07 • ROADMAP
 </div>
-🌐 GitHub
-<div align="center"> <a href="https://github.com/guilherme-stac"> <img src="https://img.shields.io/badge/Visite%20meu%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> </a> </div>
+                    GUILHERME'S ROADMAP
+
+       ┌───────────────────────────────┐
+       │       FUNDAMENTOS             │
+       │   ████████████████████  ✓     │
+       └───────────────┬───────────────┘
+                       │
+                       ▼
+       ┌───────────────────────────────┐
+       │       DESENVOLVIMENTO WEB     │
+       │   ███████████████░░░░░  ◐     │
+       └───────────────┬───────────────┘
+                       │
+                       ▼
+       ┌───────────────────────────────┐
+       │          GIT / GITHUB         │
+       │   ████████████░░░░░░░  ◐     │
+       └───────────────┬───────────────┘
+                       │
+                       ▼
+       ┌───────────────────────────────┐
+       │         BANCO DE DADOS        │
+       │   ███████░░░░░░░░░░░░  ◐     │
+       └───────────────┬───────────────┘
+                       │
+                       ▼
+       ┌───────────────────────────────┐
+       │       PROJETOS COMPLETOS      │
+       │   ░░░░░░░░░░░░░░░░░░░░  ○    │
+       └───────────────────────────────┘
+
+
+Legenda:
+✓ concluído • ◐ em andamento • ○ próximo objetivo
+
 <div align="center">
-💙 Obrigado por visitar meu perfil!
+08 • GITHUB ANALYTICS
+<br> <img height="180" src="https://github-readme-stats.vercel.app/api?username=guilherme-stac&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-stac&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
-Guilherme Tavares • ETEC VAV • Desenvolvimento de Sistemas
+<br><br>
 
-<br> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=120&section=footer" width="100%"> </div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=guilherme-stac&theme=tokyonight&hide_border=true" /> </div>
+<div align="center">
+09 • CONTRIBUTIONS
+<br> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/> </div>
+<div align="center">
+10 • PRINCÍPIOS
+<table> <tr> <td align="center">
+🧠
+
+APRENDER
+
+Sempre buscar conhecimento.
+
+</td> <td align="center">
+🛠️
+
+PRATICAR
+
+Aprender fazendo.
+
+</td> <td align="center">
+📈
+
+EVOLUIR
+
+Melhorar um pouco todos os dias.
+
+</td> <td align="center">
+🚀
+
+CRIAR
+
+Transformar ideias em projetos.
+
+</td> </tr> </table> </div>
+<div align="center">
+11 • CONTATO
+<br> <a href="https://github.com/guilherme-stac"> <img src="https://img.shields.io/badge/GITHUB-guilherme--stac-0f172a?style=for-the-badge&logo=github&logoColor=white"/> </a>
+
+<br><br>
+
+💬 Quer acompanhar minha evolução?
+
+⭐ Confira meus repositórios e acompanhe os próximos projetos!
+
+</div>
+<br> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,35:0369a1,70:0f172a,100:020617&height=160&section=footer&animation=fadeIn" width="100%"/>
+Guilherme Tavares
+
+Estudante • Desenvolvedor em formação • ETEC VAV
+
+<br>
+
+Aprender → Praticar → Criar → Evoluir
+
+</div>
